@@ -1,0 +1,32 @@
+h1{
+  font-family: Arial;
+  color: DarkMagenta;
+}
+
+body{
+  background-color: MistyRose;
+}
+
+div{
+  font-family: Courier New;
+  font-size: 20pt;
+  border: 1px solid lightgrey;
+  padding: 10px;
+  margin: 20pt;
+  width: 160pt;
+}
+
+.salmonback{
+  background-color: salmon;
+}
+
+.yellowback{
+  background-color: yellow;
+}
+
+input{
+ font-size: 20pt;
+ background-color: PaleVioletRed;
+ font-family: Courier New;
+ 
+}
