@@ -1,0 +1,9 @@
+h1{
+  font-family：'Comic Sans MS';
+  color: #D0104C;
+}
+
+canvas{
+  border: 1px solid lightgray;
+  height: 200px;
+}

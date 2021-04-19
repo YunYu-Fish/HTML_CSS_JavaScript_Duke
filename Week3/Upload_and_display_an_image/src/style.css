@@ -1,0 +1,18 @@
+h1{
+  font-size: 50pt;
+  fontfamily: Arial;
+}
+
+body{
+  color: pink;
+  margin: 5px;
+}
+
+canvas{
+  height: 200px;
+  border: 1px solid lightgray;
+} 
+
+input{
+  font-size: 14pt;
+}
