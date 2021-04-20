@@ -1,0 +1,19 @@
+h1{
+  font-family: Georgia;
+  font-size: 60px; 
+}
+
+body{
+  background: #d9a7c7;  
+  background: -webkit-linear-gradient(to right, #fffcdc, #d9a7c7); 
+  background: linear-gradient(to right, #fffcdc, #d9a7c7); 
+}
+
+canvas{
+  border: 1px solid lightgray;
+  height: 320px;
+}
+
+.button{
+  margin: 120px;
+}
